@@ -1,2 +1,2 @@
 # MyFavoriteSherpa
-Es para cosas del curso
+Este repositorio es para hacer anotaciones y un mini acordeon acerca de lo aprendio sobre Azure durante el curso
